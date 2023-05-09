@@ -1,7 +1,3 @@
-# https://www.hackerrank.com/challenges/np-concatenate/problem
-
-
-
 import numpy as np
 
 
