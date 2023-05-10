@@ -1,3 +1,7 @@
+# https://www.hackerrank.com/challenges/np-min-and-max/problem
+
+
+
 import numpy as np
 
 dim = input().strip().split(' ')
